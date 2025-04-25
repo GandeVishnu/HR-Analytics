@@ -21,16 +21,16 @@ This project leverages HR data to provide insights into employee distribution, s
    - Male employees make up a higher percentage of the workforce.
 
 2. **Salary Bands:**
-   - A large number of employees are in the low salary range (below ₹5K).
+   - Nearly 50% of employees earn less than ₹5K, suggesting potential for compensation adjustments.
 
-3. **Age Distribution:**
+3. **Age Group:**
    - Majority of employees are in the 26–35 years age group, indicating a relatively young workforce.
 
 4. **Education Distribution:**
    - Most employees come from Life Sciences and Medical fields, indicating a healthcare and research focus.
 
 5. **Overtime Work:**
-   - A significant portion of employees do not engage in overtime, which might reflect good work-life balance.
+   - 71% of employees do not work overtime—suggesting balanced workloads.
 
 6. **Business Travel Patterns:**
    - Departments like **Research & Development** and **Sales** have high numbers of employees traveling rarely.
@@ -42,11 +42,11 @@ This project leverages HR data to provide insights into employee distribution, s
    - **Human Resources** has the least number of employees, indicating a potential need for a staffing review in this area.
 
 
-## 📌 Key Takeaways 
+## 📌 Recommendations
 
 - **Salary Restructuring:** A focus on raising salaries for employees earning below ₹5K could improve employee retention and satisfaction.
 - **Career Development:** Consider introducing career development programs to help employees transition to higher salary bands and enhance their skill sets.
-- **Employee Retention:** Departments like **Human Resources** may benefit from specific retention strategies due to lower job satisfaction levels.
+- **Employee Engagement:** Develop targeted initiatives to boost satisfaction—especially in departments like Human Resources.
 - **Workforce Optimization:** Departments with high overtime work should be evaluated for workload balance and staffing levels.
 
 ## 🎯Conclusion 
